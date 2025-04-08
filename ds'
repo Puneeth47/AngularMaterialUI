@@ -1,0 +1,45 @@
+[33mcommit dc5deb4f055920a6475e16fb805e052be36d657d[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Merge: f417184 ed16f5f
+Author: Puneeth <tp004@himalayawellness.com>
+Date:   Mon Apr 7 10:55:08 2025 +0530
+
+    Merged remote main with local project
+
+[33mcommit f417184ad08c54d8cd8779fc71b6dbaa2c2f7017[m
+Author: Puneeth <tp004@himalayawellness.com>
+Date:   Mon Apr 7 10:47:24 2025 +0530
+
+    Initial commit
+
+ .editorconfig                 |    17 [32m+[m
+ .gitignore                    |    42 [32m+[m
+ .vscode/extensions.json       |     4 [32m+[m
+ .vscode/launch.json           |    20 [32m+[m
+ .vscode/tasks.json            |    42 [32m+[m
+ README.md                     |    59 [32m+[m
+ angular.json                  |   110 [32m+[m
+ package-lock.json             | 14492 [32m++++++++++++++++++++++++++++++++++++++++[m
+ package.json                  |    49 [32m+[m
+ public/favicon.ico            |   Bin [31m0[m -> [32m15086[m bytes
+ src/app/app.component.html    |   340 [32m+[m
+ src/app/app.component.scss    |     0
+ src/app/app.component.spec.ts |    29 [32m+[m
+ src/app/app.component.ts      |    20 [32m+[m
+ src/app/app.config.ts         |     8 [32m+[m
+ src/app/app.routes.ts         |     3 [32m+[m
+ src/index.html                |    15 [32m+[m
+ src/main.ts                   |     6 [32m+[m
+ src/styles.scss               |     7 [32m+[m
+ tsconfig.app.json             |    15 [32m+[m
+ tsconfig.json                 |    27 [32m+[m
+ tsconfig.spec.json            |    15 [32m+[m
+ 22 files changed, 15320 insertions(+)
+
+[33mcommit ed16f5fdf8e36c80cd2fd64854bf602b9ab590cd[m
+Author: Puneeth47 <78718858+Puneeth47@users.noreply.github.com>
+Date:   Mon Apr 7 10:25:54 2025 +0530
+
+    Initial commit
+
+ README.md | 1 [32m+[m
+ 1 file changed, 1 insertion(+)
